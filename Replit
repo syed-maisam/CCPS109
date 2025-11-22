@@ -1,0 +1,57 @@
+~/workspace$ python3 tester109.py
+109 Python Problems tester, October 18, 2025, Ilkka Kokkarinen.
+Latest version always at https://github.com/ikokkari/PythonProblems
+Student file labs109.py contains 51 recognized functions to test.
+Finished reading expected answers.
+ryerson_letter_grade: Success in 0.000 seconds.
+is_ascending: Success in 0.225 seconds.
+riffle: Success in 1.132 seconds.
+only_odd_digits: Success in 0.178 seconds.
+is_cyclops: Success in 0.021 seconds.
+domino_cycle: Success in 0.186 seconds.
+colour_trio: Success in 0.749 seconds.
+count_dominators: Success in 0.627 seconds.
+extract_increasing: Success in 0.174 seconds.
+taxi_zum_zum: Success in 0.060 seconds.
+safe_squares_rooks: Success in 0.016 seconds.
+winning_card: Success in 0.361 seconds.
+josephus: Success in 0.007 seconds.
+verify_betweenness: Success in 0.170 seconds.
+three_summers: Success in 0.910 seconds.
+sum_of_two_squares: Success in 0.391 seconds.
+count_carries: Success in 0.661 seconds.
+expand_intervals: Success in 0.095 seconds.
+collapse_intervals: Success in 0.035 seconds.
+squares_intersect: Success in 0.090 seconds.
+remove_after_kth: Success in 0.473 seconds.
+first_preceded_by_smaller: Success in 0.033 seconds.
+count_and_say: Success in 0.213 seconds.
+reverse_vowels: Success in 0.001 seconds.
+count_divisibles_in_range: Success in 0.071 seconds.
+is_perfect_power: Success in 0.003 seconds.
+fibonacci_sum: Success in 0.008 seconds.
+is_chess_960: Success in 0.162 seconds.
+multiplicative_persistence: Success in 0.069 seconds.
+topswops: Success in 0.144 seconds.
+discrete_rounding: Success in 1.116 seconds.
+tr: Success in 0.066 seconds.
+count_cigarettes: Success in 0.042 seconds.
+word_positions: Success in 0.109 seconds.
+dfa: Success in 0.294 seconds.
+lychrel: Success in 0.233 seconds.
+count_triangles: Success in 0.081 seconds.
+count_friday_13s: Success in 0.257 seconds.
+nfa: Success in 1.386 seconds.
+bowling_score: Success in 0.258 seconds.
+has_majority: Success in 1.605 seconds.
+greedy_egyptian: Success in 0.211 seconds.
+van_der_corput: Success in 0.009 seconds.
+generalized_fibonacci: Success in 0.091 seconds.
+is_prime: Success in 0.044 seconds.
+goldbach: Success in 0.145 seconds.
+square_root_sum: Success in 0.100 seconds.
+all_factors: Success in 0.025 seconds.
+split_at_none: Success in 0.198 seconds.
+expand_string: Success in 0.495 seconds.
+front_back_sort: Success in 1.606 seconds.
+51 out of 51 functions of 343 possible work.
