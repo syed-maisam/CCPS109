@@ -1,6 +1,3 @@
-def main():
-    print("Hello from repl-nix-workspace!")
+# To allow tester to be run in Replit
 
-
-if __name__ == "__main__":
-    main()
+import tester109
